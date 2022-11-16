@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GisTypical
-- 👀 I’m interested in Web Development (React, Typescript, TailwindCSS, Flask)
+- 👀 I’m interested in Web Development (React, Typescript, TailwindCSS, Express, Flask)
 
 <!---
 GisTypical/GisTypical is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
